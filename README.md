@@ -9,11 +9,14 @@
 
 - 📝 I regularly write articles on [laxmariappan.com](laxmariappan.com)
 
-- 📫 How to reach me **laxman.2903@gmail.com**
+- 📫 How to reach me **lax @ laxmariappan.com**
 
-- ⚡ Fun fact **I love cats**
+- **I love cats**
 
 ![Lax Mariappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmariappan&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/laxmariappan">
+<img width="49%" title="Redirect's to Lax Mariappan's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmariappan&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,8 +15,7 @@
 
 ![Lax Mariappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmariappan&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/laxmariappan">
-<img width="49%" title="Redirect's to Lax Mariappan's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmariappan&theme=dark&theme=black-ice&stroke=0000" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=laxmariappan" alt="GitHub Streak" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

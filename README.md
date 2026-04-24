@@ -1,32 +1,76 @@
-<h1 align="center">Hi 👋, I'm Lax Mariappan</h1>
-<h3 align="center">Web Developer, Open Source Enthusiast</h3>
+# Hi 👋, I'm Lax Mariappan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmariappan&label=Profile%20views&color=0e75b6&style=flat" alt="laxmariappan" /> </p>
+### Lead Web Developer · WordPress + AI Integration Specialist · Open Source Builder
 
-<p align="left"> <a href="https://twitter.com/laxmariappan" target="blank"><img src="https://img.shields.io/twitter/follow/laxmariappan?logo=twitter&style=for-the-badge" alt="laxmariappan" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=laxmariappan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/laxmariappan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/laxmariappan?logo=twitter&style=for-the-badge)](https://twitter.com/laxmariappan)
 
-- 🔭 I’m currently working on **a Next.js starter**
+---
 
-- 📝 I regularly write articles on [laxmariappan.com](laxmariappan.com)
+15+ years building on the web. WordPress since 2010.
 
-- 📫 How to reach me **lax @ laxmariappan.com**
+I work at the intersection of **WordPress and AI** — shipping tools, integrating LLMs into real products, and helping teams move faster with automation.
 
-- **I love cats**
+Currently a **Developer at Awesome Motive**, working on [Envira Gallery](https://enviragallery.com) and related WordPress products.
 
-![Lax Mariappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmariappan&show_icons=true&theme=tokyonight)
+---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmariappan&theme=tokyonight" alt="GitHub Streak" /></a>
+## 🔭 Open Source Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laxmariappan" height="30" width="40" /></a>
-<a href="https://dev.to/laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="laxmariappan" height="30" width="40" /></a>
-<a href="https://twitter.com/laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laxmariappan" height="30" width="40" /></a>
-<a href="https://fb.com/laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxmariappan" height="30" width="40" /></a>
-<a href="https://instagram.com/laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laxmariappan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@laxmariappan" height="30" width="40" /></a>
-<a href="https://medium.com/@laxmariappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laxmariappan" height="30" width="40" /></a>
-</p>
+### [Abilities Scout](https://github.com/laxmariappan/abilities-scout)
+Scans WordPress plugins and recommends Abilities API registrations (WP 6.9+).  
+⭐ 41 stars · Featured in **Within WordPress newsletter** · Retweeted by **Matt Mullenweg**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a></p>
+### [All The Hooks](https://github.com/laxmariappan/all-the-hooks)
+WP-CLI tool that maps every hook in a WordPress plugin — JSON, Markdown, or HTML output.  
+Built for developers who want to understand a codebase fast.
+
+### [WP Compact Scanner](https://github.com/laxmariappan/wp-compact-scanner)
+Scans installed plugins for compatibility issues with specific WordPress versions.
+
+### [Awesome WP AI](https://github.com/laxmariappan/awesome-wp-ai)
+Curated list of AI plugins, tools, and resources for WordPress.
+
+---
+
+## 🧠 What I Work With
+
+PHP · WordPress · Laravel · React · JavaScript · MySQL · WP-CLI · Docker · Next.js · Tailwind · REST API · LLM APIs · AI Automation
+
+---
+
+## 📝 Writing
+
+I write about WordPress, AI, and developer marketing at **[laxmariappan.com](https://laxmariappan.com)**
+
+Topics: WordPress Abilities API · AI disruption · open source shipping · developer-led growth
+
+---
+
+## 💼 Consulting
+
+Available for:
+- WordPress plugin and theme development
+- AI / LLM integration into WordPress or web stacks
+- Developer workflow automation and tooling
+
+→ **[Work with me](https://laxmariappan.com/consulting)**  
+→ **lax @ laxmariappan.com**
+
+---
+
+## 📊 GitHub Stats
+
+[![Lax Mariappan's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmariappan&show_icons=true&theme=tokyonight)](https://github.com/laxmariappan)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=laxmariappan&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### Connect with me:
+
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/laxmariappan)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/laxmariappan)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@laxmariappan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmariappan)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://laxmariappan.com)

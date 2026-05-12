@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lax Mariappan
 
-### Lead Web Developer · WordPress + AI Integration Specialist · Open Source Builder
+### Web Developer · WordPress + AI Integration Specialist · Open Source Builder
 
 [![Profile Views](https://komarev.com/ghpvc/?username=laxmariappan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/laxmariappan)
 [![Twitter Follow](https://img.shields.io/twitter/follow/laxmariappan?logo=twitter&style=for-the-badge)](https://twitter.com/laxmariappan)
